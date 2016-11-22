@@ -1,0 +1,12 @@
+<suite name="ExpediaSuite">
+ <test name="ExpediaSearch" preserve-order="true">
+  <classes>
+   <class name="mavenProjejct.mavenPractice.TestNGTest">
+    <methods>
+      <include name="test1" />
+      <include name="test2" /> 
+    </methods>
+   </class>
+  </classes>
+ </test>
+</suite>

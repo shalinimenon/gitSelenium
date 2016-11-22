@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ExpediaSuite" duration-ms="40942" started-at="2016-11-22T09:26:00Z" finished-at="2016-11-22T09:26:41Z">
+    <groups>
+    </groups>
+    <test name="ExpediaSearch" duration-ms="40942" started-at="2016-11-22T09:26:00Z" finished-at="2016-11-22T09:26:41Z">
+      <class name="mavenProjejct.mavenPractice.TestNGTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mavenProjejct.mavenPractice.TestNGTest@72d818d1]" name="beforeClass" is-config="true" duration-ms="23104" started-at="2016-11-22T14:56:00Z" finished-at="2016-11-22T14:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:mavenProjejct.mavenPractice.TestNGTest@72d818d1]" name="test1" duration-ms="5436" started-at="2016-11-22T14:56:23Z" finished-at="2016-11-22T14:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:mavenProjejct.mavenPractice.TestNGTest@72d818d1]" name="test2" duration-ms="6901" started-at="2016-11-22T14:56:29Z" finished-at="2016-11-22T14:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mavenProjejct.mavenPractice.TestNGTest@72d818d1]" name="afterClass" is-config="true" duration-ms="5456" started-at="2016-11-22T14:56:36Z" finished-at="2016-11-22T14:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mavenProjejct.mavenPractice.TestNGTest -->
+    </test> <!-- ExpediaSearch -->
+  </suite> <!-- ExpediaSuite -->
+</testng-results>
